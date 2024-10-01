@@ -13,16 +13,16 @@ Answer the following questions *without running the repo**.
 Run the program. 
 
 1. What does the program output. Refer to what numbers you entered and what you got back.
-    > your answer
+    > It takes 2 numbers and puts them together like 2+1 would be 21 instead of 3 and 0+2 would be 02 
 
 
 ## Investigate
 1. Add a single-line comment above each major chunk of code to explain what is happening.
 2. Read about the concept of [string concatenation](https://www.w3schools.com/python/gloss_python_string_concatenation.asp). Explain in your own words below what it is and how it relates to this program.
-    > your answer
+    > In the string concentation site I see that they use two variables and add the two variables which fuses the two together and prints out a text. Like x= python is  y= awsome and x+y=z and print z which would print python is awsome. In our code it is kind of the same just that we ask the user for the input and then fuse the two together.
 
 3. Read about the [`int()`](https://www.w3schools.com/python/ref_func_int.asp) and [`float()`](https://www.w3schools.com/python/ref_func_float.asp) functions in Python. What do they do? How can they help this program?
-    > your answer
+    > 
 
 ## Modify
 1. Change the program using what you learned so that it adds two numbers you enter.
